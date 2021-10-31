@@ -12,10 +12,7 @@ Web application created using React.JS
 ➡ Used custom CSS styled components to design UI.
 
 
-## 📷 Screen-Shots 📷
 
-![Screenshot (64)](https://user-images.githubusercontent.com/77201192/131832090-a52fb6ec-526b-4634-bb7a-5fb947dddd3b.png)
-![Screenshot (65)](https://user-images.githubusercontent.com/77201192/131832152-4f11a40d-8bf5-4ae4-bf41-339378356fe8.png)
 
 
 
